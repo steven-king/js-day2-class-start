@@ -1,0 +1,25 @@
+
+
+.answer{
+  border:1px solid #56A0D3;
+  width:50%;
+  min-height:50px;
+}
+
+.tarheel-blue{
+  color:#56A0D3;
+}
+
+
+table, th, td {
+  border: 1px solid black;
+}
+
+th, td {
+  padding: 7px;
+}
+
+.leader{
+  color:blue;
+  background:yellow;
+}
